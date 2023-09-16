@@ -1,0 +1,7 @@
+C:\Users\sirin\source\WebAppRepos\HelloWorldApp\HelloWorldApp\obj\Release\net6.0\PubTmp\Out\HelloWorldApp.exe
+C:\Users\sirin\source\WebAppRepos\HelloWorldApp\HelloWorldApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\sirin\source\WebAppRepos\HelloWorldApp\HelloWorldApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\sirin\source\WebAppRepos\HelloWorldApp\HelloWorldApp\obj\Release\net6.0\PubTmp\Out\HelloWorldApp.dll
+C:\Users\sirin\source\WebAppRepos\HelloWorldApp\HelloWorldApp\obj\Release\net6.0\PubTmp\Out\HelloWorldApp.deps.json
+C:\Users\sirin\source\WebAppRepos\HelloWorldApp\HelloWorldApp\obj\Release\net6.0\PubTmp\Out\HelloWorldApp.runtimeconfig.json
+C:\Users\sirin\source\WebAppRepos\HelloWorldApp\HelloWorldApp\obj\Release\net6.0\PubTmp\Out\HelloWorldApp.pdb
